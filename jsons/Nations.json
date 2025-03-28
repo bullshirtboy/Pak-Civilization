@@ -1,38 +1,36 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Pakistan",
+		"leaderName": "Muhammad Ali Jinnah",
+		"adjective": ["Pakistani"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Stand proudly, oh Muhammad Ali Jinnah, First Governor-General of Pakistan, Great Leader and Father of the Nation. Educated in law in the United Kingdom, you returned to India to advocate independence, rising to prominence in the India National Congress and All-India Muslim League as a Muslim leader advocating for Hindu-Muslim unity. But as time marched on, you came to see that the only way forward was a separate state, for which you passed the Lahore Resolution, demanding a state for Muslims. It was this desire that led to the creation of Pakistan. Much debate was had about the borders, with various princely states having arguments made for joining either India or Pakistan. But on the publication of the Radcliffe Line, the partition of India and Pakistan sparked mass migration and ethnic cleansing. As Governor-General, you sought to assist the Muslim migrants relocate to Pakistan. The Governor-General was a powerful office, but you were extremely ill with tuberculosis. Even in your hour of triumph, you were dying.",
+		"startIntroPart2": "Oh Baba-e-Qaum, your gains were hard fought, and you must not lose them. Corruption and violence are increasing. Can you restore the faith of the nation in the government? Will you build a civilization that can stand the test of time",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"defeated": "The weak and the defenceless, in this imperfect world, invite aggression from others. I believed there to be no power on earth that could undo Pakistan, though it seems I was tragically mistaken.",
+		"introduction": "As=salamu Alaikum. I bid you welcome to Pakistan. God has given us a grand opportunity to show our worth as architects of a State; let it not be said that we will not prove equal to the task.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "As=salamu Alaikum.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralNo": ["We absolutely refuse.","No.","I refuse."],
+		"neutralYes": ["Very good.","I accept","Wonderful."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "Peace is always preferable.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Karachi","Lahore","Peshawar","Islamabad","Multan","Rawalpindi","Faisalabad","Quetta","Hyderabad",
+			"Sialkot","Gujranwala","Hunza","Mardan","Attock","Mirpur","Okara"]
 	}
 ]
