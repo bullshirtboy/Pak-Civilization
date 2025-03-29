@@ -29,7 +29,7 @@
 
 		"outerColor": [15,158,48],
 		"innerColor": [255,255,255],
-		""favoredReligion"": "Islam",
+		"favoredReligion": "Islam",
 		"unique": ["[+73]% Production when constructing [All] wonders [in all cities]"],
 		"cities": ["Karachi","Lahore","Peshawar","Islamabad","Multan","Rawalpindi","Faisalabad","Quetta","Hyderabad","Skardu","Gwadar","Murree","Abbottabad",
 			"Sialkot","Gujranwala","Hunza","Mardan","Attock","Mirpur","Okara","Swat","Naran","Fairy Meadows"]
