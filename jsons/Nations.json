@@ -3,7 +3,7 @@
 		"name": "Pakistan",
 		"leaderName": "Muhammad Ali Jinnah",
 		"adjective": ["Pakistani"],
-		"startBias": ["Snow"],
+		"startBias": ["Avoid [Snow]"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Stand proudly, oh Muhammad Ali Jinnah, First Governor-General of Pakistan, Great Leader and Father of the Nation. Educated in law in the United Kingdom, you returned to India to advocate independence, rising to prominence in the India National Congress and All-India Muslim League as a Muslim leader advocating for Hindu-Muslim unity. But as time marched on, you came to see that the only way forward was a separate state, for which you passed the Lahore Resolution, demanding a state for Muslims. It was this desire that led to the creation of Pakistan. Much debate was had about the borders, with various princely states having arguments made for joining either India or Pakistan. But on the publication of the Radcliffe Line, the partition of India and Pakistan sparked mass migration and ethnic cleansing. As Governor-General, you sought to assist the Muslim migrants relocate to Pakistan. The Governor-General was a powerful office, but you were extremely ill with tuberculosis. Even in your hour of triumph, you were dying.",
@@ -29,6 +29,7 @@
 
 		"outerColor": [15,158,48],
 		"innerColor": [255,255,255],
+		"favoredReligion": "Islam",
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Karachi","Lahore","Peshawar","Islamabad","Multan","Rawalpindi","Faisalabad","Quetta","Hyderabad","Skardu","Gwadar","Murree","Abbottabad",
 			"Sialkot","Gujranwala","Hunza","Mardan","Attock","Mirpur","Okara","Swat","Naran","Fairy Meadows"]
