@@ -27,10 +27,10 @@
 		"afterPeace": "Peace is always preferable.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [15,158,48],
+		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Karachi","Lahore","Peshawar","Islamabad","Multan","Rawalpindi","Faisalabad","Quetta","Hyderabad",
-			"Sialkot","Gujranwala","Hunza","Mardan","Attock","Mirpur","Okara"]
+		"cities": ["Karachi","Lahore","Peshawar","Islamabad","Multan","Rawalpindi","Faisalabad","Quetta","Hyderabad","Skardu","Gwadar","Murree","Abbottabad",
+			"Sialkot","Gujranwala","Hunza","Mardan","Attock","Mirpur","Okara","Swat","Naran","Fairy Meadows"]
 	}
 ]
